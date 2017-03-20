@@ -17,3 +17,7 @@
  @import "bootstrap";
  @import "font-awesome-sprockets";
  @import "font-awesome";
+ @import "lib/simple-line-icons/css/simple-line-icons.css";
+ @import "lib/device-mockups/device-mockups.css";
+
+ @import "css/new-age";
